@@ -7,3 +7,4 @@
 ###Изучаем новые текстовые редакторы (nano,gedit, vi)
 chernomorov
 >>>>>>> chernomorov_two
+Жи ес братья
